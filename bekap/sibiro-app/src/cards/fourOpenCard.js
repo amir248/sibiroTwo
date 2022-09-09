@@ -62,11 +62,7 @@ class FourOpenCard extends Component {
       <p id="fourEl">
         <img src={FourImg} alt="img"/>
         <p style={{margin:'3%',fontSize:"20px"}}>Прихожие</p>
-<<<<<<< HEAD
         <p style={{margin:'3%',fontSize:"20px"}}>Шкафы купе, вешалки.</p>
-=======
-        <p style={{margin:'3%',fontSize:"20px"}}>Прихожие на заказ. Мы тщательно подбираем габариты и комплектацию мебели с учетом площади и стиля интерьера прихожей. Предлагаем модели встроенного и корпусного типа, прямой и угловой формы. Комплектуем мебель вешалками, ящиками для обуви, есть модели с удобной тумбой-сиденьем. Бесплатный замер. Вызывайте мастера по телефону:  <strong style={{fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}><a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong></p>
->>>>>>> origin/three
         <span id='ClosedFour'>X</span>
       </p>
         <button onClick={()=>this.handleClickFour()}>Описание</button>

@@ -37,7 +37,6 @@ import Img33 from '../gallery/yr6.jpg';
 import Img34 from '../gallery/yr7.jpg';
 import Img35 from '../gallery/yr8.jpg';
 
-<<<<<<< HEAD
 import Img36 from '../gallery/tulaKitchen/image0007.jpg';
 import Img37 from '../gallery/tulaKitchen/image0010.jpg';
 import Img38 from '../gallery/tulaKitchen/image0011.jpg';
@@ -50,15 +49,11 @@ import Img44 from '../gallery/tulaKitchen/image0027.jpg';
 import Img45 from '../gallery/tulaKitchen/image0028.jpg';
 import Img46 from '../gallery/tulaKitchen/image0029.jpg';
 
+import Img47 from '../gallery/newPic/skaf.jpg';
+import Img48 from '../gallery/newPic/skaF.jpg';
+import Img49 from '../gallery/newPic/skaS.jpg';
+import Img50 from '../gallery/newPic/skaV.jpg';
 
-import Img47 from '../gallery/newPic/skaf_01.jpg';
-import Img48 from '../gallery/newPic/skaF_02.jpg';
-import Img49 from '../gallery/newPic/skaS_03.jpg';
-import Img50 from '../gallery/newPic/skaV_04.jpg';
-
-
-=======
->>>>>>> origin/three
 const IMG=[{
     "count":"0",
     "alt":"Встраиваемая кухня",
@@ -269,7 +264,6 @@ const IMG=[{
 "src":Img35,
 "hash": "mebel_7",
 "title": "Корпусная мебель под заказ"
-<<<<<<< HEAD
 },{
 "count":'35',
 "alt":"Тульская кухня",
@@ -336,7 +330,6 @@ const IMG=[{
 "src":Img46,
 "hash": "tulaKitchen_10",
 "title": "Тульская кухня под заказ"
-
 },{
 "count":'46',
 "alt":"Shkaf",
@@ -361,8 +354,6 @@ const IMG=[{
 "src":Img50,
 "hash": "shkaV",
 "title": "Встраиваемые шакафы"
-=======
->>>>>>> origin/three
 }];
 
 

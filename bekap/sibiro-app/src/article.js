@@ -59,11 +59,7 @@ class Article extends Component {
           <p>Для кухни важно ежедневный комфорт. Вместительная и функциональная кухня по неповторимому дизайну.</p>
           <Kitchen />
 
-<<<<<<< HEAD
           <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}>Заказать <a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
-=======
-        <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}><span style={{fontSize:"37px",verticalAlign: "middle"}}>&#9990;</span><a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
->>>>>>> origin/three
         </div>
       </div>
       <div className="cart">
@@ -72,26 +68,16 @@ class Article extends Component {
         <h3>Модули с уникальными размерами.</h3>
           <p>Корпусная мебель по индивидуальным размерам: кухни, шкафы купе, прихожие, гостиные, детские и многое другое...</p>
           <TwoOpenCard/>
-<<<<<<< HEAD
             <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}>Заказать <a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
-=======
-          <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}><span style={{fontSize:"37px",verticalAlign: "middle"}}>&#9990;</span> <a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
->>>>>>> origin/three
         </div>
       </div>
       <div className="cart">
         <img src={CartFour} alt="Заказать торговое оборудование" title="Заказать торговое оборудование" />
         <div className="boxCart">
           <h3>Торговое оборудование</h3>
-<<<<<<< HEAD
           <p>Барные стойки, ресепшены, витрины.</p>
           <ThreeOpenCard/>
           <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}>Заказать <a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
-=======
-          <p>Барные стойки, ресепшины, витрины.</p>
-          <ThreeOpenCard/>
-          <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}><span style={{fontSize:"37px",verticalAlign: "middle"}}>&#9990;</span><a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
->>>>>>> origin/three
         </div>
       </div>
       <div className="cart">
@@ -100,11 +86,7 @@ class Article extends Component {
           <h3>Прихожие</h3>
           <p>Современные модели оригинальных, эргономичных, максимально лаконичных гарнитуров для прихожей. По персональным размерам.</p>
           <FourOpenCard/>
-<<<<<<< HEAD
           <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}>Заказать <a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
-=======
-          <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}><span style={{fontSize:"37px",verticalAlign: "middle"}}>&#9990;</span><a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
->>>>>>> origin/three
         </div>
       </div>
       <div className="cart">
@@ -114,11 +96,7 @@ class Article extends Component {
             <strong>От: 19 000 руб.</strong>
             <p>Мебель по индивидуальным размерам, авторский дизайн разработаный в гармонии интерьера. Пространство квартиры используется максимально эффиктивно.</p>
             <FiveOpenCard/>
-<<<<<<< HEAD
             <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}>Заказать <a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
-=======
-            <strong style={{padding: "3%", background: "rgba(255, 255, 255, 0.3)", borderRadius: "10px", fontSize: "14px", marginTop: "30%", marginBottom: "15%"}}><span style={{fontSize:"37px",verticalAlign: "middle"}}>&#9990;</span><a href="tel:+79528807647" style={{color:"maroon"}}>+7 952 880 76 47</a> </strong>
->>>>>>> origin/three
         </div>
       </div>
       </React.Fragment>
