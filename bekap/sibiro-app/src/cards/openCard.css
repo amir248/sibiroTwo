@@ -1,0 +1,98 @@
+*{
+  margin:0;
+}
+kitchen{
+  min-height:300px;
+  width:100%;
+  max-width:100%;
+  display:flex;
+}
+kitchen button{
+  margin:3%;
+  color:green;
+}
+img{
+  max-width:100%;
+}
+#newEl{
+  display:none;
+  /* justify-content: center;
+  align-items: center;
+  position:absolute;
+  top:10; */
+  position:relative;
+  top:1px;
+  color:white;
+  width:100%;
+  height:100%;
+  min-height: 25px;
+  background: slategray;
+<<<<<<< HEAD
+  overflow: auto;
+=======
+  overflow: scroll;
+>>>>>>> origin/three
+}
+#twoEl{
+  display:none;
+  position:relative;
+  top:1px;
+  color:white;
+  width:100%;
+  height:100%;
+  min-height: 25px;
+  background: slategray;
+<<<<<<< HEAD
+  overflow: auto;
+=======
+  overflow: scroll;
+>>>>>>> origin/three
+}
+#threeEl{
+  display:none;
+  position:relative;
+  top:1px;
+  color:white;
+  width:100%;
+  height:100%;
+  min-height: 25px;
+  background: slategray;
+<<<<<<< HEAD
+  overflow: auto;
+=======
+  overflow: scroll;
+>>>>>>> origin/three
+}
+#fourEl{
+  display:none;
+  position:relative;
+  top:1px;
+  color:white;
+  width:100%;
+  height:100%;
+  min-height: 25px;
+  background: slategray;
+<<<<<<< HEAD
+  overflow: auto;
+=======
+  overflow: scroll;
+>>>>>>> origin/three
+}
+#fiveEl{
+  display:none;
+  position:relative;
+  top:1px;
+  color:white;
+  width:100%;
+  height:100%;
+  min-height: 25px;
+  background: slategray;
+<<<<<<< HEAD
+  overflow: auto;
+=======
+  overflow: scroll;
+>>>>>>> origin/three
+}
+#Closed{
+  display:block;
+}
