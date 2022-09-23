@@ -32,7 +32,7 @@ function clickMenu(){
       document.querySelector('#list').innerHTML=`
       <a href="#first">outbreak</a>
       <a href="#gallery">Gallery</a>
-      <a href="tel:+79528807647">+79528807647</a>
+      <a href="tel:+79528807647">+79137870404</a>
       <a href="#footer">Контакты</a>
       `;
     }else if(numberClick===2){
