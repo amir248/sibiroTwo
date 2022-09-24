@@ -50,9 +50,9 @@ import Img45 from '../gallery/tulaKitchen/image0028.jpg';
 import Img46 from '../gallery/tulaKitchen/image0029.jpg';
 
 import Img47 from '../gallery/newPic/skaf.jpg';
-import Img48 from '../gallery/newPic/skaF.jpg';
-import Img49 from '../gallery/newPic/skaS.jpg';
-import Img50 from '../gallery/newPic/skaV.jpg';
+import Img48 from '../gallery/newPic/skaone.jpg';
+import Img49 from '../gallery/newPic/skatwo.jpg';
+import Img50 from '../gallery/newPic/skathree.jpg';
 
 const IMG=[{
     "count":"0",
@@ -332,27 +332,27 @@ const IMG=[{
 "title": "Тульская кухня под заказ"
 },{
 "count":'46',
-"alt":"Shkaf",
+"alt":"Шкаф купе",
 "src":Img47,
 "hash": "shkaf",
 "title": "Встраиваемые шакафы"
 },{
 "count":'47',
-"alt":"Shkaf",
+"alt":"Шкаф купе",
 "src":Img48,
-"hash": "shkaF",
+"hash": "shkaone",
 "title": "Встраиваемые шакафы"
 },{
 "count":'48',
-"alt":"Shkaf",
+"alt":"Шкаф купе",
 "src":Img49,
-"hash": "shkaS",
+"hash": "shkatwo",
 "title": "Встраиваемые шакафы"
 },{
 "count":'49',
-"alt":"Shkaf",
+"alt":"Шкаф купе",
 "src":Img50,
-"hash": "shkaV",
+"hash": "shkathree",
 "title": "Встраиваемые шакафы"
 }];
 
